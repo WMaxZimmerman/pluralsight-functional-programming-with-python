@@ -1,0 +1,4 @@
+#+TITLE: Functional Programming with Ptyhon
+
+* Resources
+- [[https://app.pluralsight.com/library/courses/python-functional-programming/table-of-contents][Pluralsight]]
